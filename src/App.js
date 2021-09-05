@@ -73,9 +73,9 @@ function App() {
   return (
     <div className="border-box" style={{ height: "100vh", width: "100%" }}>
       <div className="container mx-auto xs:px-4 sm:px-8 md:px-20 lg:px-80">
-        <h1 className="text-4xl font-thin">
+        <h1 className="text-4xl font-thin text-center mt-2 mb-10">
           <ImCalendar className="inline-block mx-2 text-red-400" />
-          Your Appointment
+          Lucid Appointment
         </h1>
         <AddAppointment
           lastId={appointmentList.reduce(

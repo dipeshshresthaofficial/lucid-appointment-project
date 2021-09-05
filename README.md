@@ -1,3 +1,13 @@
+#Learned:
+
+1. Searching/ Filtering a List
+2. Sorting and Ordering a List
+3. Fetching data from ".json" file present in PUBLIC folder of project as an API ("files" present in "PUBLIC" folder will be in same heirarchy of "SRC" folder.)
+4. Adding data to local storage.
+5. See More, See Less paragraph functionality.
+6. REACT ICONS
+7. Tailwindcss
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
